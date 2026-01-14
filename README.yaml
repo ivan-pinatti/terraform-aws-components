@@ -236,6 +236,7 @@ description: |-
   | vpc                                       | [cloudposse-terraform-components/aws-vpc](https://github.com/cloudposse-terraform-components/aws-vpc)                                      |
   | vpc-flow-logs-bucket                      | [cloudposse-terraform-components/aws-vpc-flow-logs-bucket](https://github.com/cloudposse-terraform-components/aws-vpc-flow-logs-bucket)                     |
   | vpc-peering                               | [cloudposse-terraform-components/aws-vpc-peering](https://github.com/cloudposse-terraform-components/aws-vpc-peering)                               |
+  | vpc-routes                                | [cloudposse-terraform-components/aws-vpc-routes](https://github.com/cloudposse-terraform-components/aws-vpc-routes) |
   | waf                                       | [cloudposse-terraform-components/aws-waf](https://github.com/cloudposse-terraform-components/aws-waf)                                       |
   | zscaler                                   | [cloudposse-terraform-components/aws-zscaler](https://github.com/cloudposse-terraform-components/aws-zscaler)                                   |
 
